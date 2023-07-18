@@ -40,10 +40,10 @@
     "isLoading": false,
     "mobileTopRow": 447,
     "responsiveBehavior": "hug",
-    "originalTopRow": 452,
+    "originalTopRow": 454,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 23,
-    "originalBottomRow": 456,
+    "originalBottomRow": 458,
     "files": [],
     "maxNumFiles": 1
 }

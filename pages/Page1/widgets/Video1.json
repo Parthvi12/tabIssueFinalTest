@@ -31,9 +31,9 @@
     "isLoading": false,
     "mobileTopRow": 273,
     "responsiveBehavior": "fill",
-    "originalTopRow": 278,
+    "originalTopRow": 280,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 9,
-    "originalBottomRow": 306,
+    "originalBottomRow": 308,
     "autoPlay": false
 }

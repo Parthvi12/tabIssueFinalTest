@@ -97,7 +97,7 @@
     "key": "wpyxm4sv1r",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 54,
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "rwjee3tsw4",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -129,10 +129,10 @@
     "isLoading": false,
     "mobileTopRow": 89,
     "responsiveBehavior": "fill",
-    "originalTopRow": 94,
+    "originalTopRow": 96,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 32,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 109,
+    "originalBottomRow": 112,
     "minDynamicHeight": 15
 }
