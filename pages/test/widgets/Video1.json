@@ -5,8 +5,8 @@
     "displayName": "Video",
     "iconSVG": "/static/media/icon.e287f6857746abbb793ba263c67eb446.svg",
     "searchTags": ["youtube"],
-    "topRow": 285,
-    "bottomRow": 313,
+    "topRow": 329,
+    "bottomRow": 357,
     "parentRowSpace": 10,
     "type": "VIDEO_WIDGET",
     "hideCard": false,
@@ -31,9 +31,9 @@
     "isLoading": false,
     "mobileTopRow": 273,
     "responsiveBehavior": "fill",
-    "originalTopRow": 285,
+    "originalTopRow": 329,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 9,
-    "originalBottomRow": 313,
+    "originalBottomRow": 357,
     "autoPlay": false
 }

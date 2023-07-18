@@ -5,12 +5,12 @@
     "iconSVG": "/static/media/icon.1a5defb3c19b4cac4a27829d1f979e4c.svg",
     "displayName": "TreeSelect",
     "labelText": "Label",
-    "topRow": 389,
+    "topRow": 433,
     "searchTags": [
         "dropdown",
         "singleselecttree"
     ],
-    "bottomRow": 396,
+    "bottomRow": 440,
     "parentRowSpace": 10,
     "labelWidth": 5,
     "type": "SINGLE_SELECT_TREE_WIDGET",
@@ -69,11 +69,11 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 377,
     "responsiveBehavior": "fill",
-    "originalTopRow": 389,
+    "originalTopRow": 433,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 12,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 396,
+    "originalBottomRow": 440,
     "allowClear": false,
     "minDynamicHeight": 4
 }
