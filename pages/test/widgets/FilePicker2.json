@@ -6,8 +6,8 @@
     "displayName": "FilePicker",
     "iconSVG": "/static/media/icon.2c8bfbc118a7a5f7b61b10540a4a8881.svg",
     "searchTags": ["upload"],
-    "topRow": 503,
-    "bottomRow": 507,
+    "topRow": 502,
+    "bottomRow": 506,
     "parentRowSpace": 10,
     "allowedFileTypes": [],
     "type": "FILE_PICKER_WIDGET_V2",
@@ -40,10 +40,10 @@
     "isLoading": false,
     "mobileTopRow": 447,
     "responsiveBehavior": "hug",
-    "originalTopRow": 503,
+    "originalTopRow": 502,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 23,
-    "originalBottomRow": 507,
+    "originalBottomRow": 506,
     "files": [],
     "maxNumFiles": 1
 }
