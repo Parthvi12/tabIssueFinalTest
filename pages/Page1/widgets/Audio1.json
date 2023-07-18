@@ -9,8 +9,8 @@
         "wave",
         "player"
     ],
-    "topRow": 107,
-    "bottomRow": 111,
+    "topRow": 114,
+    "bottomRow": 118,
     "parentRowSpace": 10,
     "type": "AUDIO_WIDGET",
     "hideCard": false,
@@ -32,8 +32,8 @@
     "isLoading": false,
     "mobileTopRow": 107,
     "responsiveBehavior": "fill",
-    "originalTopRow": 107,
+    "originalTopRow": 112,
     "mobileLeftColumn": 0,
-    "originalBottomRow": 111,
+    "originalBottomRow": 116,
     "autoPlay": false
 }

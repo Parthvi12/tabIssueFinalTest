@@ -12,8 +12,8 @@
         "code detector",
         "barcode reader"
     ],
-    "topRow": 118,
-    "bottomRow": 151,
+    "topRow": 125,
+    "bottomRow": 158,
     "parentRowSpace": 10,
     "type": "CODE_SCANNER_WIDGET",
     "hideCard": false,
@@ -40,9 +40,9 @@
     "isLoading": false,
     "mobileTopRow": 118,
     "responsiveBehavior": "fill",
-    "originalTopRow": 118,
+    "originalTopRow": 123,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 13,
-    "originalBottomRow": 151,
+    "originalBottomRow": 156,
     "placement": "CENTER"
 }
