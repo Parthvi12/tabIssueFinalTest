@@ -1,0 +1,58 @@
+{
+    "mobileBottomRow": 369,
+    "widgetName": "SwitchGroup1",
+    "isCanvas": false,
+    "displayName": "Switch Group",
+    "iconSVG": "/static/media/icon.03523a36719880adf0dcca9025cd0026.svg",
+    "labelText": "Label",
+    "topRow": 363,
+    "bottomRow": 369,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "SWITCH_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 30,
+    "animateLoading": true,
+    "parentColumnSpace": 12.578125,
+    "leftColumn": 4,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "label": "Blue",
+            "value": "BLUE"
+        },
+        {
+            "label": "Green",
+            "value": "GREEN"
+        },
+        {
+            "label": "Red",
+            "value": "RED"
+        }
+    ],
+    "isDisabled": false,
+    "key": "m67h8c5ueg",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 30,
+    "defaultSelectedValues": ["BLUE"],
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "m4u1jy11i9",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 363,
+    "originalTopRow": 363,
+    "mobileLeftColumn": 4,
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 369,
+    "isInline": true,
+    "alignment": "left",
+    "minDynamicHeight": 4
+}
